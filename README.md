@@ -75,7 +75,7 @@ Yosys + OpenROAD + Magic + Netgen + KLayout
 
 ### 🧩 RISC-V / Processor Design
 
-Exploring processor architecture through RV32I, SERV, and PicoRV32.
+Exploring processor architecture through RV32I, SERV and CVA6
 
 ```text
 Datapath
@@ -85,7 +85,7 @@ Register file
 Compact RISC-V cores
 ```
 
-[RV32I Processor](https://github.com/124107157-KV/RV32I_Processor) · [SERV](https://github.com/124107157-KV/SERV) · [PicoRV32](https://github.com/124107157-KV/picorv32)
+[RV32I Processor](https://github.com/124107157-KV/RV32I_Processor) · [SERV](https://github.com/124107157-KV/SERV) · [CVA6](https://github.com/124107157-KV/cva6)
 
 ---
 
