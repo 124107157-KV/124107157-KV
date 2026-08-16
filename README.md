@@ -3,6 +3,9 @@
 ### Digital IC Design · UVM Verification · RTL · RISC-V · Open-Source ASIC Flows
 
 <p align="center">
+  <a href="https://github.com/openhwgroup/cva6/pulls?q=is%3Apr+author%3A124107157-KV">
+    <img src="https://img.shields.io/badge/OpenHW%20CVA6-Contributor-brightgreen?logo=github" />
+  </a>
   <img src="https://img.shields.io/badge/SystemVerilog-RTL%20%7C%20UVM-blue" />
   <img src="https://img.shields.io/badge/RISC--V-Processor%20Design-orange" />
   <img src="https://img.shields.io/badge/SKY130-OpenROAD%20%7C%20LibreLane-green" />
@@ -127,9 +130,30 @@ I’m building a hardware portfolio around:
 
 ## 📫 Connect
 
+<p align="left">
+  <a href="https://github.com/124107157-KV">
+    <img src="https://img.shields.io/badge/GitHub-124107157--KV-black?logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/keerthi-vasan-p/">
+    <img src="https://img.shields.io/badge/LinkedIn-Keerthi%20Vasan-blue?logo=linkedin" />
+  </a>
+</p>
+
 ```text
-GitHub : 124107157-KV
-Focus  : Digital IC Design / Verification / Open-Source ASIC
+GitHub   : 124107157-KV
+LinkedIn : keerthi-vasan-p
+
+Focus    : Digital IC Design
+           RTL Design
+           UVM Verification
+           RISC-V
+           Computer Architecture
+           Open-Source ASIC Flows
 ```
 
-> Building small blocks properly today, so bigger chips behave tomorrow.
+---
+
+<p align="center">
+  <b>Building small blocks properly today, so bigger chips behave tomorrow.</b>
+</p>
+
